@@ -1,6 +1,8 @@
 📦 Aplikasi Inventaris Komputer – Responsi 2 Mobile Paket 1
 
 Nama: Amel (H1D023017)
+Shift KRS : D
+Shift Lama : E
 
 Aplikasi ini dibuat untuk memenuhi tugas Responsi 2 Mobile Programming.
 Aplikasi berjalan menggunakan Flutter Web dan terhubung ke backend CodeIgniter 4 sebagai REST API.
